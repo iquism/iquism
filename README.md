@@ -43,4 +43,9 @@ Web Developer from Pakistan. I build fast, responsive websites and web applicati
 
 ### Skills
 
+GitHub Stats
+ 
 
+Contact
+Portfolio: iquism-portfolio.vercel.app
+GitHub: github.com/iquism
